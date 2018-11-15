@@ -1,0 +1,4 @@
+[submodule "ValueCrossingDetector"]
+	path = ValueCrossingDetector
+	url = https://github.com/TanselArif-21/ValueCrossingDetector
+	branch = master
