@@ -1,4 +1,0 @@
-﻿  ErraticStepIdentifierProject.cpp
-ErraticStepIdentifierProject.obj : error LNK2001: unresolved external symbol __imp___Py_NoneStruct
-C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\libs\python36.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-C:\Users\HVAD\Documents\MyStuff\TempErraticStepIdentifier\ErraticStepIdentifier\ErraticStepIdentifierProject\Debug\ErraticStepIdentifierProject.exe : fatal error LNK1120: 1 unresolved externals
