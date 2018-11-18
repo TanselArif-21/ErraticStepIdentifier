@@ -1,3 +1,12 @@
-﻿  stdafx.cpp
-  ErraticStepIdentifier.cpp
+﻿  ErraticStepIdentifier.cpp
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(113): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(123): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(145): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(154): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(157): warning C4244: 'argument': conversion from 'float' to 'const char', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(236): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(373): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hvad\documents\mystuff\temperraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier\erraticstepidentifier.cpp(442): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   ErraticStepIdentifier.vcxproj -> C:\Users\HVAD\Documents\MyStuff\TempErraticStepIdentifier\ErraticStepIdentifier\ErraticStepIdentifier\x64\Debug\ErraticStepIdentifier.exe
